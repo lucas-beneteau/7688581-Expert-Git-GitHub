@@ -22,6 +22,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 ```
 La maison est belle
+La maison n'est absolument pas belle
 ```
 
 
